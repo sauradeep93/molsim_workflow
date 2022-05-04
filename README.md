@@ -5,3 +5,5 @@ A computational workflow which takes as input a CIF (Crystallographic Informatio
 2. Energy minimzation of the MOF using lammps (https://github.com/lammps/lammps)
 3. Partial charge assignment of the MOF using EQeq method (https://github.com/danieleongari/EQeq)
 4. GCMC (Grand Canonical Monte Carlo) simulations using RASPA (https://github.com/iRASPA/RASPA2)
+
+Please make sure that all the respective programs are installed in your system. 
