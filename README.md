@@ -7,3 +7,6 @@ A computational workflow which takes as input a CIF (Crystallographic Informatio
 4. GCMC (Grand Canonical Monte Carlo) simulations using RASPA (https://github.com/iRASPA/RASPA2)
 
 Please make sure that all the respective programs are installed in your system. 
+
+Publications which have used this workflow:
+https://pubs.acs.org/doi/10.1021/acsami.1c16220
