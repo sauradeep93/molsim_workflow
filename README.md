@@ -10,3 +10,5 @@ Please make sure that all the respective programs are installed in your system.
 
 Publications which have used this workflow:
 https://pubs.acs.org/doi/10.1021/acsami.1c16220
+
+Authors: Sauradeep Majumdar, Elias Moubarak
