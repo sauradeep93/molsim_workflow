@@ -1,5 +1,7 @@
-# molsim_workflow
+# material_design_&_screening_workflow
 A computational workflow to screen materials for carbon capture, hydrogen storage, methane storage and other energy related applications. The workflow takes as input a CIF (Crystallographic Information File) of a MOF (Metal Organic Framework) and then performs the following operations:
+
+(0.) generation of in-silico structures from building block files using ToBaCCo (https://github.com/tobacco-mofs/tobacco_3.0)
 
 1. Preparation of lammps input file (for energy minimization) using lammps_interface (https://github.com/peteboyd/lammps_interface)
 2. Energy minimzation of the MOF using lammps (https://github.com/lammps/lammps)
