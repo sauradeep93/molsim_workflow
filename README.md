@@ -10,9 +10,11 @@ A computational workflow to screen materials for carbon capture, hydrogen storag
 5. GCMC (Grand Canonical Monte Carlo) simulations using RASPA (https://github.com/iRASPA/RASPA2)
 
 Please make sure that all the respective programs are installed in your system. 
+If you find our work useful, kindly cite us.
 
 Publications that have used this workflow:
-https://pubs.acs.org/doi/10.1021/acsami.1c16220
+1. https://pubs.acs.org/doi/10.1021/acsami.1c16220
+2. https://doi.org/10.26434/chemrxiv-2023-71mjq-v2
 
 Workflow contributors: Sauradeep Majumdar, Elias Moubarak
 
