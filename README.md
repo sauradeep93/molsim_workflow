@@ -11,6 +11,16 @@ A computational workflow to screen materials for carbon capture, hydrogen storag
 
 Please make sure that all the respective programs are installed in your system. 
 
+
+# Running
+Each of the python files can be run independently or together.
+python opt_local_pc.py will take in a batch of cif files and compute steps 1 to 5. 
+To run these scripts one by one in a cluster, we suggest looking at the examples provided
+
+
+
+
+
 If you find our work useful, please cite us.
 
 Publications that have used this workflow:
