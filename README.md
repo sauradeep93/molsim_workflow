@@ -14,8 +14,9 @@ Please make sure that all the respective programs are installed in your system.
 
 # Usage
 Each of the python files can be run independently or together.
+
 python opt_local_pc.py will take in a batch of cif files and compute steps 1 to 5. 
-To run these scripts one by one in a cluster, we suggest looking at the examples provided
+To run these scripts individually on a cluster, we suggest looking at the examples provided in the examples_run.zip folder
 
 
 
