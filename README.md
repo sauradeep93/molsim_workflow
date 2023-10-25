@@ -11,7 +11,7 @@ A computational workflow to screen materials for carbon capture, hydrogen storag
 
 Please make sure that all the respective programs are installed in your system. 
 
-If you find our work useful, kindly cite us.
+If you find our work useful, please cite us.
 
 Publications that have used this workflow:
 1. https://pubs.acs.org/doi/10.1021/acsami.1c16220
